@@ -13,7 +13,7 @@ endif::[]
 = devon4j Application
 
 == MyThaiStar Basics
-As an example of how a devon4ng application is built, we are going to show the _MyThaiStar_ application frontend project, that can be found in https://github.com/devonfw/my-thai-star[GitHub].
+As an example of how a devon4ng application is built, We are going to show the _MyThaiStar_ application frontend project, that can be found in https://github.com/devonfw/my-thai-star[GitHub].
 
 The _MyThaiStar_ application is a solution for managing the online booking and orders of a restaurant. It is presented as a showcase app but designed with real requirements in mind. Moreover, it attempts to demonstrate common features provided by many modern web apps (routing with and without guards, use of flex-box, theming, re-usable components, mock back end, ...).
 
@@ -24,7 +24,7 @@ The main features of the app are:
 * Anonymous users can:
 ** Book a table.
 ** Create an event and invite some friends via email.
-** See the menu of dishes and make their own orders.
+** See the menu of dishes and create their own orders.
 
 * Logged-in users in the role _Waiter_ can also:
 ** Access a restricted area to see and filter the list and details of all reservations and orders made by users.
